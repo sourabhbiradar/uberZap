@@ -1,0 +1,12 @@
+2024-05-30T06:36:40.341+0530	DEBUG	newD/newD.go:16	This is a debug message
+2024-05-30T06:36:40.342+0530	INFO	newD/newD.go:17	This is an info message
+2024-05-30T06:36:40.342+0530	WARN	newD/newD.go:18	This is a warn message
+main.main
+	/Users/squareroot38/Desktop/JV_tech/loggerZap/zapConfig/newD/newD.go:18
+runtime.main
+	/usr/local/Cellar/go/1.22.1/libexec/src/runtime/proc.go:271
+2024-05-30T06:36:40.342+0530	ERROR	newD/newD.go:19	This is an error message
+main.main
+	/Users/squareroot38/Desktop/JV_tech/loggerZap/zapConfig/newD/newD.go:19
+runtime.main
+	/usr/local/Cellar/go/1.22.1/libexec/src/runtime/proc.go:271
